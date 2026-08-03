@@ -162,7 +162,7 @@ Personal portfolio showcasing projects and technical skills.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srajitha2005/srajitha2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/srajitha2005/srajitha2005/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 # 🌐 Connect With Me
